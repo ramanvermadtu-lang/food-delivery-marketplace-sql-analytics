@@ -480,6 +480,3 @@ GROUP BY 1;
 
 This project reflects an end-to-end analytics workflow — from schema design and data cleaning to writing production-style SQL that answers concrete business questions around **retention, operational efficiency, and revenue recovery** — the same kind of analysis used to drive decisions in a real food-delivery marketplace.
 
----
-
-*Note: All data used in this project is synthetically generated for educational purposes and does not represent real data associated with any specific company or entity.*
